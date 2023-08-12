@@ -42,9 +42,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['23759074870'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = '3D' //ur owner name
 
 global.ytname = "YT: AlienAlfa" //ur yt chanel name
 
@@ -57,9 +57,9 @@ global.location = "UK, London, hertfordshire" //ur location
 
 global.owner = ['447405935355']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '237659074870' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "MEVTR3D" //ur bot name
 
 global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
 
@@ -71,9 +71,9 @@ global.reactmoji = "😘" //ur menu react emoji
 
 global.themeemoji = "🐤" //ur theme emoji
 
-global.packname = '🐥 𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼-𝙈𝘿 \n😻 T\n🥰 E\n🤩\n🥹 A\n🥳 M\n😜 O\n😏\n😘 C\n🤪 A\n😳 R\n🫠 I\n🫡 N\n🥺 O\n' //ur sticker watermark packname
+global.packname = '3D' //ur sticker watermark packname
 
-global.author = '\n△   ᴀʟɪᴇɴᴀʟꜰᴀ\n▷   ꜱᴀꜰᴡᴀɴɢᴀɴᴢ\n◁   ᴀᴊᴍᴀʟ\n△   ɴᴇᴇʀᴀᴊ \n▷   xᴇᴏɴ ' //ur sticker watermark author
+global.author = '3D' //ur sticker watermark author
 
 
 
